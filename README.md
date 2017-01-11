@@ -1,2 +1,1 @@
-
-Servers for dic2me
+Repository for dic2me
