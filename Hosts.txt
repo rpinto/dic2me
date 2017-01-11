@@ -6,7 +6,7 @@ IP_address      Host                  SRVT  Webmin                              
 5.189.172.162   vmi92477.contabo.host FE001 https://vmi92477.contabo.host:10000 2a02:c207:2009:2477::1
 173.212.206.230 vmi97738.contabo.host BE010 https://vmi97738.contabo.host:10000 2a02:c207:2009:7738::1
 5.189.179.194   vmi92478.contabo.host BE01a https://vmi92478.contabo.host:10000 2a02:c207:2009:2478::1
-173.212.201.157 vmi95941.contabo.host BE01b https://vmi92479.contabo.host:10000 2a02:c207:2009:5941::1
+173.212.201.157 vmi95941.contabo.host BE01b https://vmi95941.contabo.host:10000 2a02:c207:2009:5941::1
 
 ==== Check_Munin_STATUS
 # -> Check Munin Status (U:munin P:4munin2view)
