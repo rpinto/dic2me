@@ -9,7 +9,6 @@ IP_address      Host                  SRVT  Webmin                              
 173.212.201.157 vmi95941.contabo.host BE01b https://vmi95941.contabo.host:10000 2a02:c207:2009:5941::1
 
 ==== Check_Munin_STATUS
-# -> Check Munin Status (U:munin P:4munin2view)
 tst1  http://vmi92479.contabo.host/munin
 www   http://vmi97742.contabo.host/munin
 fe01a http://vmi92477.contabo.host/munin
