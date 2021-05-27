@@ -1,3 +1,5 @@
+==========================================================================================================
+### v1
 ==== SSH_Webmin
 IP_address      Host                  SRVT  Webmin                              IPv6_address
 --------------- --------------------- ----- ----------------------------------- ----------------------
@@ -15,3 +17,18 @@ fe01a http://vmi92477.contabo.host/munin
 be010 http://vmi97738.contabo.host/munin
 be01a http://vmi92478.contabo.host/munin
 be01b http://vmi95941.contabo.host/munin
+
+==========================================================================================================
+### v2
+==== SSH_Webmin
+IP_address      Host                    SRVT  Webmin                                IPv6_address
+--------------- ----------------------- ----- ------------------------------------- ----------------------
+173.212.203.10  vmi92479.contabo.host   TST01 https://vmi92479.contabo.host:10000   2a02:c207:2009:2479::1
+173.212.206.233 vmi97742.contabo.host   FORM1 https://vmi97742.contabo.host:10000   2a02:c207:2009:7742::1
+                                        QA    
+173.212.249.183 m5483.contaboserver.net www1  https://m5483.contaboserver.net:10000 2a02:c207:0:5483::1    PRD NewHost Fisico
+
+==== Check_Munin_STATUS
+tst1  http://vmi92479.contabo.host/munin
+Form  http://vmi97742.contabo.host/munin
+www1  http://m5483.contaboserver.net/munin
